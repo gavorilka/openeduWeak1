@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+      "X-Author":"ivangavrilov3",
+      "Access-Control-Allow-Origin":"*"
+    }
+  }
+}
